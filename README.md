@@ -1,5 +1,5 @@
-﻿# Gaze2Act
+# Gaze2Act
 
-This repository hosts the Gaze2Act project page.
+Project page: https://zuo-kuangji.github.io/Gaze2Act/
 
-Project code, setup instructions, and the evaluation protocol are coming soon.
+This repository currently hosts the Gaze2Act project page. Project code, setup instructions, and the evaluation protocol are coming soon.
