@@ -1,4 +1,4 @@
-# Gaze2Act
+﻿# Gaze2Act
 
 Project page: https://zuo-kuangji.github.io/Gaze2Act/
 
