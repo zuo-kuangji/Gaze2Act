@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zuo-kuangji.github.io/Gaze2Act/sitemap.xml
